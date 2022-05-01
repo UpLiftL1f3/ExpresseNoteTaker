@@ -1,17 +1,17 @@
 [
-    {
-        "id": 1,
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "id": "7fe2",
-        "title": "TEST1000",
-        "text": "TEST1000\n"
-    },
-    {
-        "id": "eb0b",
-        "title": "asdf",
-        "text": "qwer"
-    }
+  {
+    "id": 1,
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "id": "7fe2",
+    "title": "Clean",
+    "text": "make sure to clean your room today"
+  },
+  {
+    "id": "7f3",
+    "title": "Whats for dinner",
+    "text": "For dinner we are planning on making salmon with rice and a salad"
+  }
 ]
